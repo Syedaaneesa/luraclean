@@ -8,7 +8,7 @@ With a focus on efficiency, reliability, and customer satisfaction, **Lura Clean
 
 ##  Live Demo
 
-Experience the website live: [Lura Clean](https://luraclean.com/)
+Experience the website live: [Lura Clean](https://luraclean.com/): explore our services, learn more about our process, and book your cleaning with ease.
 
 ---
 
