@@ -48,11 +48,12 @@ Ensures newly renovated or constructed properties are spotless and ready for use
 
 ##  Why Choose Lura Clean?
 
-- **Professional Team:** Fully trained, vetted, and insured staff.  
-- **Eco-Friendly Products:** Safe for families, pets, and the environment.  
-- **Satisfaction Guaranteed:** Re-cleaning available if service standards are not met.  
-- **Efficient Scheduling:** Quick and reliable service without disrupting tenants or business operations.  
-- **Customer Support:** Friendly assistance via phone, email, or website chat.
+- **Professional Team:** Fully trained, carefully vetted, and insured staff who bring experience, reliability, and attention to detail to every job.
+- **Eco-Friendly Products:** Safe, non-toxic cleaning solutions that are suitable for families, pets, and environmentally conscious spaces.
+- **Satisfaction Guaranteed:** Re-cleaning provided if service standards are not met, ensuring complete peace of mind for every client.
+- **Efficient Scheduling:** Flexible, quick, and reliable service designed to minimize disruption to tenants, homeowners, or business operations.
+- **Customer Support:** Friendly and responsive assistance available via phone, email, or website chat to handle all inquiries and bookings smoothly.
+
 
 ---
 
