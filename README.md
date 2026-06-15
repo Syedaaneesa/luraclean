@@ -1,10 +1,6 @@
 #  Lura Clean  Professional Cleaning Services London
 
-**Lura Clean** is a trusted cleaning company based in London, providing professional cleaning services for both residential and commercial properties. We work with tenants, landlords, estate agents, and property managers who require reliable, high-quality cleaning with consistently outstanding results.
-
-Our experienced team delivers efficient, detail-focused cleaning solutions designed to leave every property spotless, fresh, and inspection-ready. Using modern equipment and eco-friendly cleaning products, we maintain the highest standards while ensuring a safe and professional service from start to finish.
-
-At **Lura Clean**, customer satisfaction, reliability, and attention to detail are at the heart of everything we do, helping clients maintain clean, welcoming spaces they can be proud of.
+**Lura Clean** is a trusted London-based cleaning company specializing in professional residential and commercial cleaning services for tenants, landlords, estate agents, property managers, and businesses. With a focus on reliability, quality, and customer satisfaction, our experienced team delivers thorough, detail-oriented cleaning solutions that leave properties spotless, fresh, and inspection-ready. Using modern equipment and eco-friendly products, we ensure exceptional results while maintaining the highest standards of professionalism, helping clients create clean, welcoming, and well-maintained spaces.
 
 ---
 
