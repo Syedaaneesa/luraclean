@@ -74,4 +74,4 @@ Ensures newly renovated or constructed properties are spotless and ready for use
 
 
 ### Homepage
-![Home Page](https://github.com/Syedaaneesa/luraclean/blob/main/screencapture-luraclean-2026-03-17-23_58_12.png)
+![Home Page](https://github.com/Syedaaneesa/luraclean/blob/main/screencapture-luraclean-2026-07-06-19_57_12.png)
