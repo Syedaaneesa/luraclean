@@ -52,7 +52,11 @@ Ensures newly renovated or constructed properties are spotless and ready for use
 - **Satisfaction Guaranteed:** Re-cleaning provided if service standards are not met, ensuring complete peace of mind for every client.
 - **Efficient Scheduling:** Flexible, quick, and reliable service designed to minimize disruption to tenants, homeowners, or business operations.
 - **Customer Support:** Friendly and responsive assistance available via phone, email, or website chat to handle all inquiries and bookings smoothly.
+---
 
+
+### Homepage Screenshot
+![Home Page](https://github.com/Syedaaneesa/luraclean/blob/main/screencapture-luraclean-2026-07-06-19_57_12.png)
 
 ---
 
@@ -70,8 +74,3 @@ Ensures newly renovated or constructed properties are spotless and ready for use
 - **Name:** Syeda Aneesa  
 - **Email:** saneesa@zeestmedia.com  
 
----
-
-
-### Homepage
-![Home Page](https://github.com/Syedaaneesa/luraclean/blob/main/screencapture-luraclean-2026-07-06-19_57_12.png)
