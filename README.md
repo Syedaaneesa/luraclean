@@ -61,7 +61,7 @@ Ensures newly renovated or constructed properties are spotless and ready for use
 - WordPress CMS for content management  
 - PHP, HTML5, CSS3, JavaScript for website functionality  
 - MySQL database for content storage  
-- Elementor / WPBakery for page design and layout customization  
+- Elementor for page design and layout customization  
 
 ---
 
