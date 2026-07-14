@@ -72,5 +72,5 @@ Ensures newly renovated or constructed properties are spotless and ready for use
 ##  Developer Information
 
 - **Name:** Syeda Aneesa  
-- **Email:** saneesa@zeestmedia.com  
+- **Email:** s.shujaat05@gmail.com
 
