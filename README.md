@@ -25,16 +25,16 @@ Visit Live Website: [Lura Clean](https://luraclean.com/)
 
 ##  Our Cleaning Services
 
-### End of Tenancy Cleaning
+#### End of Tenancy Cleaning
 A comprehensive cleaning service designed to help tenants move out stress-free. Includes kitchen, bathrooms, bedrooms, living areas, and windows.  
 
-### Deep Cleaning
+#### Deep Cleaning
 Perfect for seasonal cleaning or property refresh. Intensive cleaning for appliances, floors, tiles, skirting boards, and hard-to-reach areas.  
 
-### Carpet & Upholstery Cleaning
+#### Carpet & Upholstery Cleaning
 Specialized cleaning using modern techniques to remove dirt, allergens, and stains. Available as part of deep cleaning or standalone service.  
 
-### Post-Construction Cleaning
+#### Post-Construction Cleaning
 Ensures newly renovated or constructed properties are spotless and ready for use. Includes debris removal, dusting, and polishing of surfaces.
 
 ### Additional Services
@@ -70,7 +70,6 @@ Ensures newly renovated or constructed properties are spotless and ready for use
 
 
 ##  Developer Information
-
 - **Name:** Syeda Aneesa  
 - **Email:** s.shujaat05@gmail.com
 
