@@ -2,13 +2,13 @@
 
 **Lura Clean** is a trusted London-based cleaning company providing professional residential and commercial cleaning services for tenants, landlords, estate agents, property managers, and businesses. We deliver reliable, high-quality, and detail-oriented cleaning solutions using experienced professionals, modern equipment, and eco-friendly products to ensure every property is spotless, fresh, and ready for occupancy, inspections, or everyday use. Committed to excellence, reliability, and customer satisfaction, Lura Clean helps create clean, healthy, and welcoming environments with exceptional service tailored to each client's needs.
 
----
+
 
 ##  Live Demo
 Visit Live Website: [Lura Clean](https://luraclean.com/)
 
 
----
+
 
 
 ##  Key Features
@@ -21,7 +21,7 @@ Visit Live Website: [Lura Clean](https://luraclean.com/)
 - **Transparent Pricing:** Clear rates with no hidden fees.
 - **Landlord & Agent Approved:** Trusted by professionals across London.
 
----
+
 
 ##  Our Cleaning Services
 
@@ -43,7 +43,7 @@ Ensures newly renovated or constructed properties are spotless and ready for use
 - Floor Polishing  
 - Garden & Outdoor Cleaning  
 
----
+
 
 ##  Why Choose Lura Clean?
 
@@ -52,13 +52,13 @@ Ensures newly renovated or constructed properties are spotless and ready for use
 - **Satisfaction Guaranteed:** Re-cleaning provided if service standards are not met, ensuring complete peace of mind for every client.
 - **Efficient Scheduling:** Flexible, quick, and reliable service designed to minimize disruption to tenants, homeowners, or business operations.
 - **Customer Support:** Friendly and responsive assistance available via phone, email, or website chat to handle all inquiries and bookings smoothly.
----
+
 
 
 ### Homepage Screenshot
 ![Home Page](https://github.com/Syedaaneesa/luraclean/blob/main/screencapture-luraclean-2026-07-06-19_57_12.png)
 
----
+
 
 ##  Technology Used
 
@@ -67,7 +67,7 @@ Ensures newly renovated or constructed properties are spotless and ready for use
 - MySQL database for content storage  
 - Elementor for page design and layout customization  
 
----
+
 
 ##  Developer Information
 
